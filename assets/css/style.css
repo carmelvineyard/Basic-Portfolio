@@ -1,0 +1,238 @@
+body {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	/*background-color: #ffffff;*/
+	color: #777777;
+	background-image: url(../images/honey_im_subtle.png);
+	max-width: 960px;
+}
+
+
+h2 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+
+h1 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+header {
+	/*max-width: 960px;*/
+	border-bottom: solid 2px #cccccc;
+	background-color: #ffffff;
+}
+
+
+#logo {
+	background-color: #4aaaa5;
+	color: #ffffff;
+	font-size: 150%;
+	font-weight: bold;
+	padding: 25px;
+	display: inline-block;
+	left: 30px;
+	position: relative;
+	/*margin-left: 118px;*/
+	/*float: left;*/
+	/*z-index: -118px;*/
+}
+
+.header_link {
+	/*float: right;*/
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	background-color: #ffffff;
+	font-size: 75%;
+	padding: 0px 15px 0px 15px;
+	display: inline;
+	text-decoration: none;
+}
+
+.header_link:hover {
+	text-decoration: underline;
+	text-decoration-color: #ac099f;
+}
+
+table {
+	display: inline-table;
+	position: relative;
+	left: 375px;
+}
+
+
+#middle_link {
+	
+	border-left: solid 1px #ededeb;
+	border-right: solid 1px #ededeb;
+}
+
+/*#left_link {
+	margin-left: 340px;
+}
+
+#right_link {
+	margin-right: 185px;
+}*/
+
+
+
+#main_content {
+	width: 650px;
+}
+
+
+.box {
+	background-color: #ffffff;
+	padding: 30px 25px 30px 25px;
+	margin: 35px 35px 35px 30px;
+	border: solid 2px #dddddd;
+	float: left;
+	display: inline;
+}
+
+
+.box_header {
+	color: #4aaaa5;
+	font-weight: bold;
+	font-size: 125%;
+	padding-bottom: 29px;
+	border-bottom: solid 2px #ededeb;
+	margin-bottom: 24px;
+}
+
+#me_text {
+	display: inline;
+	line-height: 250%;
+	float: left;
+}
+
+#me_pic {
+	height: 155px;
+	width: 120px;
+	margin: 0px 25px 20px 0px;
+	display: inline;
+	float: left;
+}
+
+textarea {
+	height: 180px;
+	width: 530px;
+	color: #777777;
+	margin: 10px 0px 10px 0px;
+}
+
+.form {
+	height: 30px;
+	width: 530px;
+	margin: 10px 0px 10px 0px;
+	color: #777777;
+}
+
+#submit {
+	height: 37px;
+	width: 104px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	padding: 10px;
+}
+
+
+#beach {
+	height: 173px;
+	width: 233px;
+	margin: 10px 35px 50px 0px;
+}
+
+#orchid {
+	height: 173px;
+	width: 233px;
+	margin: 10px 0px 50px 0px;
+}
+
+#grass {
+	height: 173px;
+	width: 233px;
+	margin: 0px 35px 50px 0px;
+}
+
+#pansy {
+	height: 173px;
+	width: 233px;
+	margin: 0px 0px 50px 0px
+}
+
+#splash {
+	height: 173px;
+	width: 233px;
+	margin: 0px 0px 35px 0px;
+}
+
+.teal_bar {
+	height: 40px;
+	width: 200px;
+	display: inline-block;
+	z-index: 1;
+	position: relative;
+	/*top: -140px;*/
+	bottom: 20px;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	text-align: center;
+	padding-top: 19px;
+	/*padding-bottom: 15px;*/
+}
+
+.teal_bar:hover {
+	background-color: #ac099f;
+}
+
+#sidebar {
+	max-width: 270px;
+	display: inline;
+}
+
+#connect_box {
+	width: 222px;
+	height: 165px;
+	background-color: #ffffff;
+	float: left;
+	border: solid 2px #f7f7f6;
+	margin-top: 35px;
+	display: inline;
+	padding-left: 25px;
+}
+
+#connect_header {
+	color: #4aaaa5;
+	padding: 27px 0px 22px 0px;
+	margin-right: 25px;
+	border-bottom: solid 2px #ededeb;
+	font-weight: bold;
+	font-size: 115%;
+
+}
+
+.hex_logo {
+	height: 47px;
+	width: 47px;
+	margin-top: 20px;
+	margin-bottom: 35px;
+}
+
+img {
+
+}
+
+
+footer {
+	background-color: #666666;
+	color: #c0c0c0;
+	border-top: solid 7px #4aaaa5;
+	clear: both;
+	font-size: 60%;
+	padding: 25px 0px 25px 0px;
+	text-align: center;
+
+}
